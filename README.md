@@ -6,7 +6,7 @@ Make this presentable using visualizations, create attractive and interactive Da
 
 ## Process
 ### Selecting Data: 
-We choose Kaggle's Dataset Suicide rate and life expectancy(https://www.kaggle.com/datasets/marshuu/suicide-rate-and-life-expectancy).We thought that this dataset could produce interesting outcomes.
+We choose Kaggle's [Dataset Suicide rate and life expectancy](https://www.kaggle.com/datasets/marshuu/suicide-rate-and-life-expectancy). We thought that this dataset could produce interesting outcomes.
 ### Exploring: 
 We start with diving deep into the data to get a better understanding of the dataset. We start exploring each table and then column of the table and try to be more familiar with it. For this we use two tools. At first we use capabilities of python to understand the data also side by side we use Tableau to make some graphs(Blue colored worksheets) to figure out the data structure. We also use Excel as our dataset is in .csv format.
 ### Cleaning:
