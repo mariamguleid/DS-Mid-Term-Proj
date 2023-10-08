@@ -1,12 +1,12 @@
 # Final-Project-Tableau
 
 ## Project/Goals
-The main goal of this project is to introduce us to the actual, real world raw data and how we can convert this data to a meaningful, structured and accurate format. Gave us opportunity to combine all our learnings and implement these in our own way. We clean, analyse and make predictions.
-Make this presentable using visualizations, create attractive and interactive Dashboards to impress stakeholders and get a meaningful conclusion from it. This is a subset of the challenges we have to face while analysing and presenting real world problem. On top of that, we learned to work in a group which was so exciting.
+The main goal of this project is to introduce us to the actual, real world raw data and how we can convert this data to a meaningful, structured and accurate format. It gave us the opportunity to combine all our learnings and implement these in our own way. We cleaned, analyzed, and made predictions.
+We are making this presentable using visualizations, creating attractive and interactive Dashboards to impress stakeholders and get a meaningful conclusion from it. This is a subset of the challenges we have to face while analyzing and presenting real world problem. On top of that, we learned to work in a group which was so exciting.
 
 ## Process
 ### Selecting Data: 
-We choose Kaggle's [Dataset Suicide rate and life expectancy](https://www.kaggle.com/datasets/marshuu/suicide-rate-and-life-expectancy). We thought that this dataset could produce interesting outcomes.
+We chose Kaggle's Dataset [Suicide rate and life expectancy](https://www.kaggle.com/datasets/marshuu/suicide-rate-and-life-expectancy). We thought that this dataset could produce interesting outcomes.
 ### Exploring: 
 We start with diving deep into the data to get a better understanding of the dataset. We start exploring each table and then column of the table and try to be more familiar with it. For this we use two tools. At first we use capabilities of python to understand the data also side by side we use Tableau to make some graphs(Blue colored worksheets) to figure out the data structure. We also use Excel as our dataset is in .csv format.
 ### Cleaning:
@@ -38,7 +38,7 @@ We succeeded in finding the answers of the above questions clearly using an inte
 
 ## Challenges 
 - The data does not contain information about All the countries.
-- It also does not contain Yearly or Monthly based information.
+- It also does not contain yearly or monthly based information.
 
 ## Future Goals
-We would like to connect this dataset with some time series information and like to explore the forcasting as well.
+We would like to connect this dataset with some time series information and like to explore the forecasting as well.
