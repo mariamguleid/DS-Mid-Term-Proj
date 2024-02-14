@@ -2,7 +2,7 @@
 
 ## Project/Goals
 The main goal of this project is to introduce us to the actual, real world raw data and how we can convert this data to a meaningful, structured and accurate format. It gave us the opportunity to combine all our learnings and implement these in our own way. We cleaned, analyzed, and made predictions.
-We are making this presentable using visualizations, creating attractive and interactive Dashboards to impress stakeholders and get a meaningful conclusion from it. This is a subset of the challenges we have to face while analyzing and presenting real world problem. On top of that, we learned to work in a group which was so exciting.
+We are making this presentable using visualizations, creating attractive and interactive Dashboards and getting a meaningful conclusion from it. This is a subset of the challenges we have to face while analyzing and presenting real world problem. On top of that, we learned to work in a group which was so exciting.
 
 ## Process
 ### Selecting Data: 
